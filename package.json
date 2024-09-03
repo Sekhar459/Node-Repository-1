@@ -1,7 +1,7 @@
 {
   "name": "my-node-app",
   "version": "1.0.0",
-  "description": "A simple Node.js app with Express",
+  "description": "A New simple Node.js app with Express",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
